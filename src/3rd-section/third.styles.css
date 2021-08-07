@@ -1,41 +1,41 @@
 .thirdcomponent {
 	position: absolute;
-	width: 1920px;
-	height: 1080px;
+	/* width: 1920px;
+	height: 1080px; */
 
 	background: linear-gradient(90deg, #dfe9f3 0%, #ffffff 100%);
 }
 .rectangle1 {
 	position: absolute;
-	width: 904px;
-	height: 80px;
-	left: 207px;
-	top: 86px;
+	width: 452px;
+	height: 40px;
+	left: 103px;
+	top: 43px;
 
 	background: #ffc727;
 }
 
 .rectangle2 {
 	position: absolute;
-	width: 904px;
-	height: 80px;
-	left: 228px;
-	top: 72px;
+	width: 452px;
+	height: 40px;
+	left: 114px;
+	top: 36px;
 
 	background: #272f52;
 }
 
 .rectangle2 h1 {
 	position: absolute;
-	width: 361px;
-	height: 43px;
-	left: 290px;
-	top: 21px;
+	width: 180px;
+	height: 22px;
+	left: 145px;
+	top: 1px;
 
 	font-family: Barlow;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 36px;
+	font-size: 18px;
 	line-height: 43px;
 	letter-spacing: 0.02em;
 
@@ -65,15 +65,15 @@
 
 .list1 {
 	position: absolute;
-	/* width: 296px; */
-	height: 58px;
-	left: 319px;
-	top: 334px;
+	width: 296px;
+	height: 29px;
+	left: 159px;
+	top: 200px;
 
 	font-family: Barlow;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 48px;
+	font-size: 24px;
 	line-height: 58px;
 
 	/* identical to box height */
@@ -84,15 +84,15 @@
 }
 .list2 {
 	position: absolute;
-	/* width: 251px; */
-	height: 58px;
-	left: 319px;
-	top: 502px;
+	width: 251px;
+	height: 29px;
+	left: 159px;
+	top: 260px;
 
 	font-family: Barlow;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 48px;
+	font-size: 24px;
 	line-height: 58px;
 
 	/* identical to box height */
@@ -103,15 +103,15 @@
 }
 .list3 {
 	position: absolute;
-	/* width: 482px; */
-	height: 58px;
-	left: 319px;
-	top: 670px;
+	width: 482px;
+	height: 29px;
+	left: 159px;
+	top: 320px;
 
 	font-family: Barlow;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 48px;
+	font-size: 24px;
 	line-height: 58px;
 
 	/* identical to box height */
@@ -122,15 +122,15 @@
 }
 .footer1 h1 {
 	position: absolute;
-	/* width: 1326px; */
+	width: max-content;
 	height: 58px;
-	left: 274px;
-	top: 902px;
+	left: 420px;
+	top: 601px;
 
 	font-family: Barlow;
 	font-style: normal;
 	font-weight: 600;
-	font-size: 48px;
+	font-size: 24px;
 	line-height: 58px;
 
 	/* identical to box height */

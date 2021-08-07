@@ -3,9 +3,9 @@
 }
 
 .text {
-  position: absolute;
+  position: relative;
   width: 657px;
-  height: 270px;
+  height: 600px;
   left: 117px;
   top: 540px;
 
@@ -37,7 +37,7 @@
   position: absolute;
   width: 503.29px;
   height: 563.19px;
-  left: 1118.22px;
+  left: 1120.22px;
   top: 364.64px;
   filter: blur(2px);
   background-image: url(/src/assets/2.png);
@@ -49,11 +49,11 @@
 .img__3 {
   background: url(/src/assets/3.png);
   border: 18px solid #485380;
-  position: absolute;
+  position: relative;
   width: 410.54px;
   height: 459.4px;
   left: 1381.6px;
-  top: 417.73px;
+  top: -285px;
   filter: blur(7px);
   background-repeat: no-repeat;
   background-size: cover;

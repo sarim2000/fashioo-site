@@ -1,0 +1,362 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.container__header {
+  background-color: #272f52;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+  height: 100px;
+}
+
+.logo {
+  position: relative;
+  top: 40px;
+  color: #ffffff;
+  font-size: 30px;
+}
+.container__header a {
+  text-decoration: none;
+  position: relative;
+  font-style: bold;
+  font-weight: 500;
+  top: 30px;
+  color: #ffffff;
+  padding: 40px;
+  margin: 40px;
+}
+
+.icon {
+  position: relative;
+  top: 40px;
+}
+/*  
+ Desktop - 8
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90deg, #dfe9f3 0%, #ffffff 100%);
+
+/* Rectangle 51 */
+
+/* position: absolute;
+width: 1920px;
+height: 120px;
+left: 0px;
+top: 1px;
+
+background: #272f52; */
+
+/* Group 40 */
+
+/* position: absolute;
+width: 945.14px;
+height: 643px;
+left: 847px;
+top: 326px;
+
+/* Group 8 */
+
+/* position: absolute;
+width: 410.54px;
+height: 459.4px;
+left: 1381.6px;
+top: 417.73px; */
+
+/* filter: blur(9px); */
+
+/* Rectangle 16 */
+
+/* position: absolute;
+width: 410.54px;
+height: 459.4px;
+left: 1381.6px;
+top: 417.73px;
+
+background: #485380;
+box-shadow: 0px 8px 32px 4px rgba(0, 0, 0, 0.35); */
+
+/* Rectangle 17 */
+
+/* position: absolute;
+width: 353.91px;
+height: 401.06px;
+left: 1409.92px;
+top: 446.89px;
+
+background: url(bella-pon-fruitsia-y9HsMX3-mUY-unsplash.jpg); */
+
+/* Group 9 */
+/* 
+position: absolute;
+width: 503.29px;
+height: 563.19px;
+left: 1118.22px;
+top: 364.64px;
+
+filter: blur(6px); */
+
+/* Rectangle 16 */
+
+/* position: absolute;
+width: 503.29px;
+height: 563.19px;
+left: 1118.22px;
+top: 364.64px;
+
+background: #485380;
+box-shadow: 0px 8px 32px 4px rgba(0, 0, 0, 0.35); */
+
+/* Rectangle 17 */
+
+/* position: absolute;
+width: 433.87px;
+height: 491.67px;
+left: 1152.93px;
+top: 400.4px;
+
+background: url(pexels-nripen-kumar-roy-725458.jpg); */
+
+/* Rectangle 14 */
+
+/* position: absolute;
+width: 592px;
+height: 643px;
+left: 847px;
+top: 326px;
+
+background: #485380;
+box-shadow: 0px 8px 32px 4px rgba(0, 0, 0, 0.35); */
+
+/* Rectangle 15 */
+
+/* position: absolute;
+width: 511px;
+height: 563px;
+left: 887px;
+top: 366px;
+
+background: url(pexels-mentatdgt-937416.jpg); */
+
+/* Group */
+
+/* position: absolute;
+left: 92.71%;
+right: 5.42%;
+top: 3.98%;
+bottom: 92.69%; */
+
+/* Vector */
+
+/* position: absolute;
+left: 92.71%;
+right: 5.42%;
+top: 3.98%;
+bottom: 92.69%;
+
+background: #ffffff;
+border: 3px solid #ffffff;
+box-sizing: border-box; */
+
+/* feather:shopping-cart */
+
+/* position: absolute;
+width: 36px;
+height: 36px;
+left: 1600px;
+top: 43px; */
+
+/* Group */
+
+/* position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 8.33%; */
+
+/* Vector */
+/* 
+position: absolute;
+left: 33.33%;
+right: 58.33%;
+top: 83.33%;
+bottom: 8.33%;
+
+border: 3px solid #ffffff; */
+
+/* Vector */
+
+/* position: absolute;
+left: 79.17%;
+right: 12.5%;
+top: 83.33%;
+bottom: 8.33%;
+
+border: 3px solid #ffffff; */
+
+/* Vector */
+
+/* position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 33.33%;
+
+border: 3px solid #ffffff; */
+
+/* Fashioo */
+
+/* position: absolute;
+width: 159px;
+height: 55px;
+left: 81px;
+top: 34px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: bold;
+font-size: 46px;
+line-height: 55px;
+
+color: #ffffff; */
+
+/* Clothes mean nothing until someone lives in them. */
+/* 
+position: absolute;
+width: 657px;
+height: 270px;
+left: 117px;
+top: 540px;
+
+font-family: Lobster;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 90px;
+
+color: #272f52;
+
+text-shadow: -11px 9px 6px rgba(0, 0, 0, 0.25); */
+
+/* someone */
+
+/* position: absolute;
+width: 236px;
+height: 90px;
+left: 259px;
+top: 630px;
+
+font-family: Lobster;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 90px; */
+/* identical to box height */
+
+/* border: 4px solid #ffc727; */
+
+/* Group 29
+
+position: absolute;
+width: 1064px;
+height: 17px;
+left: 428px;
+top: 53px; */
+
+/* HOME */
+/* 
+position: absolute;
+width: 95px;
+height: 15px;
+left: 428px;
+top: 53px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 15px;
+/* identical to box height, or 47% */
+/* letter-spacing: 0.04em;
+
+color: #ffffff;  */
+
+/* Consultancy */
+
+/* position: absolute;
+width: 237px;
+height: 15px;
+left: 603px;
+top: 53px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 15px;
+/* identical to box height, or 47% */
+/* letter-spacing: 0.04em;
+text-transform: uppercase; */
+/* 
+color: #ffffff;  */
+
+/* BLOG */
+
+/* position: absolute;
+width: 86px;
+height: 15px;
+left: 920px;
+top: 53px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 15px;
+/* identical to box height, or 47% */
+/* letter-spacing: 0.04em;
+
+color: #ffffff; */
+
+/* ABOUT */
+
+/* position: absolute;
+width: 112px;
+height: 15px;
+left: 1086px;
+top: 55px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 15px;
+/* identical to box height, or 47% */
+/* letter-spacing: 0.08em; */
+/* */
+/* color: #ffffff; */
+
+/* E-COMMERCE */
+/* 
+position: absolute;
+width: 214px;
+height: 15px;
+left: 1278px;
+top: 55px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 15px; */
+/* identical to box height, or 47% */
+/* letter-spacing: 0.04em;
+
+color: #ffffff;  */

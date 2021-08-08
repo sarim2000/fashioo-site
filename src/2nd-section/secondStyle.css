@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200;300;400;500;600&display=swap');
+.secondPage_Container {
+	width: 100%;
+	min-height: 100vh;
+	background: linear-gradient(90deg, #dfe9f3 0%, #ffffff 100%);
+	display: grid;
+	place-items: center;
+}
+.secondPage_SecitonTwo {
+	transform: translateY(-40px);
+}
+.secondPage_SecitonOne {
+	transform: translateY(40px);
+}
+.secondPage_SecitonOne,
+.secondPage_SecitonTwo {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.secondPage_SecitonOne .Image,
+.secondPage_SecitonTwo .Image {
+	width: 100%;
+	min-width: 300px;
+	max-width: 350px;
+	height: fit-content;
+}
+.Image img {
+	width: 100%;
+}
+.secondPage_SecitonOne .text {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+.text {
+	width: 80%;
+}
+.text h2 {
+	font-family: 'Barlow', sans-serif;
+	font-size: 2rem;
+	font-weight: 600;
+	width: 70%;
+}
+#Yellow-tag {
+	color: #ffc727;
+}
+@media (max-width: 750px) {
+	.text {
+		width: 100%;
+		padding: 10px;
+	}
+	.text h2 {
+		width: 100%;
+		text-align: center;
+		font-size: 1.5rem;
+	}
+}
+@media (max-width: 560px) {
+	.secondPage_SecitonOne,
+	.secondPage_SecitonTwo {
+		flex-direction: column;
+		transform: translateY(0);
+	}
+	.secondPage_SecitonTwo {
+		flex-direction: column-reverse;
+		margin-top: 50px;
+	}
+}

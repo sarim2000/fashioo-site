@@ -7,12 +7,12 @@
   width: 657px;
   height: 600px;
   left: 117px;
-  top: 540px;
+  top: 440px;
 
   font-family: Lobster;
   font-style: normal;
   font-weight: normal;
-  font-size: 72px;
+  font-size: 62px;
   line-height: 90px;
 
   color: #272f52;
@@ -22,7 +22,7 @@
 .img__1 {
   border: 18px solid #485380;
   position: absolute;
-  width: 592px;
+  width: 492px;
   height: 643px;
   left: 847px;
   top: 326px;
@@ -35,7 +35,7 @@
 .img__2 {
   border: 18px solid #485380;
   position: absolute;
-  width: 503.29px;
+  width: 403.29px;
   height: 563.19px;
   left: 1120.22px;
   top: 364.64px;
@@ -50,7 +50,7 @@
   background: url(/src/assets/3.png);
   border: 18px solid #485380;
   position: relative;
-  width: 410.54px;
+  width: 310.54px;
   height: 459.4px;
   left: 1381.6px;
   top: -285px;

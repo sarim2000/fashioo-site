@@ -1,8 +1,8 @@
-.section5__container {
+.Section5__container {
   position: relative;
   width: 1920px;
   height: 1120.23px;
-  display: inline-block;
+  border-top: 10px solid linear-gradient(90deg, #dfe9f3 0%, #ffffff 100%);
   background: linear-gradient(90deg, #dfe9f3 0%, #ffffff 100%);
 }
 

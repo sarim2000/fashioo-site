@@ -7,8 +7,8 @@ function Section1() {
         Clothes mean nothing until someone lives in them.
       </div>
       <div className="img__container">
-        <div className="img__3"></div>
-        <div className="img__2"></div> <div className="img__1"></div>
+        <div className="img__1"></div>
+        <div className="img__2"></div> <div className="img__3"></div>
       </div>
     </div>
   );

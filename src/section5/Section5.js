@@ -6,8 +6,8 @@ function Section5() {
     <div className="Section5__container">
       <div className="rectangle__45">
         <div className="textbox">Meet Our Stylists</div>
-        <div className="rectangle__44"></div>
       </div>
+      <div className="rectangle__44"></div>
       <div className="lorem">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing sem
         aliquet purus eleifend netus malesuada mattis mollis mattis. Integer

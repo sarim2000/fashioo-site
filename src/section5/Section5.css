@@ -1,34 +1,37 @@
 .Section5__container {
+  overflow: hidden;
   position: relative;
-  width: 1920px;
+  width: 100%;
   height: 1120.23px;
-  border-top: 10px solid linear-gradient(90deg, #dfe9f3 0%, #ffffff 100%);
+  border-top: 20px solid linear-gradient(90deg, #dfe9f3 100%, #ffffff 100%);
   background: linear-gradient(90deg, #dfe9f3 0%, #ffffff 100%);
+  padding-top: 4%;
 }
 
 .rectangle__45 {
+  z-index: 20;
   display: inline-block;
   position: relative;
-  width: 714px;
+  width: 30%;
   height: 60px;
-  left: 207px;
+  left: 10%;
   background: #272f52;
 }
 .rectangle__44 {
   display: inline-block;
-  z-index: -1;
-  position: relative;
-  width: 714px;
+  z-index: 1;
+  position: absolute;
+  width: 30%;
   height: 60px;
-  left: -18px;
-  top: -20px;
+  left: 8.8%;
+  top: 8%;
   background: #ffc727;
 }
 
 .textbox {
   top: 20px;
   text-align: center;
-  right: 100px;
+  right: 50%;
   font-size: 36px;
   letter-spacing: 0.02em;
 
@@ -37,7 +40,7 @@
 .lorem {
   position: relative;
   width: 714px;
-  left: 211px;
+  left: 10%;
   top: 148px;
 
   font-family: Barlow;
@@ -52,10 +55,10 @@
 
 .polygon__3 {
   position: relative;
-  width: 155px;
+  width: 8%;
   height: 151px;
-  left: 1200px;
-  top: -250px;
+  left: 50%;
+  top: -300px;
   border: 5px solid #ffc727;
   box-shadow: inset 0px 4px 24px rgba(0, 0, 0, 0.25);
   border-radius: 37px;
@@ -78,10 +81,10 @@
 }
 .robert {
   position: relative;
-  width: 152px;
+  width: 10%;
   height: 34px;
-  left: 1365px;
-  top: -260px;
+  left: 60%;
+  top: -300px;
   font-family: Barlow;
   font-style: normal;
   font-weight: 500;
@@ -92,10 +95,10 @@
 }
 .robert__text {
   position: relative;
-  width: 197px;
+  width: 10%;
   height: 25px;
-  left: 1365px;
-  top: -260px;
+  left: 60%;
+  top: -300px;
 
   font-family: Barlow;
   font-style: normal;
@@ -108,10 +111,10 @@
 
 .polygon__5 {
   position: relative;
-  width: 155px;
+  width: 8%;
   height: 151px;
-  left: 1327.37px;
-  top: -260px;
+  left: 55%;
+  top: -310px;
 
   border: 4px solid #ffc727;
   box-shadow: inset 0px 4px 24px rgba(0, 0, 0, 0.25);
@@ -136,10 +139,10 @@
 
 .jane {
   position: relative;
-  width: 137px;
+  width: 10%;
   height: 34px;
-  left: 1482px;
-  top: -260px;
+  left: 64%;
+  top: -310px;
   font-family: Barlow;
   font-style: normal;
   font-weight: 500;
@@ -151,10 +154,10 @@
 }
 .jane__text {
   position: relative;
-  width: 197px;
+  width: 10%;
   height: 25px;
-  left: 1482px;
-  top: -260px;
+  left: 64%;
+  top: -310px;
   font-family: Barlow;
   font-style: normal;
   font-weight: 500;
@@ -167,9 +170,9 @@
 /* Polygon 8 */
 .polygon__8 {
   position: relative;
-  width: 155px;
+  width: 10%;
   height: 151px;
-  left: 1143px;
+  left: 60%;
   top: -320px;
   border: 4px solid #ffc727;
   box-shadow: inset 0px 4px 24px rgba(0, 0, 0, 0.25);
@@ -194,10 +197,10 @@
 
 .rebeca {
   position: relative;
-  width: 149px;
+  width: 10%;
   height: 34px;
-  left: 1380px;
-  top: -90px;
+  left: 70%;
+  top: -140px;
   font-family: Barlow;
   font-style: normal;
   font-weight: 500;
@@ -208,10 +211,10 @@
 }
 .rebeca__text {
   position: relative;
-  width: 197px;
+  width: 10%;
   height: 25px;
-  left: 1380px;
-  top: -90px;
+  left: 70%;
+  top: -140px;
 
   font-family: Barlow;
   font-style: normal;
@@ -225,9 +228,9 @@
 /* Polygon 10 */
 .polygon__10 {
   position: relative;
-  width: 155px;
+  width: 10%;
   height: 151px;
-  left: 962px;
+  left: 50%;
   top: -400px;
 
   border: 4px solid #ffc727;
@@ -253,9 +256,9 @@
 }
 .natasha {
   position: relative;
-  width: 149px;
+  width: 10%;
   height: 34px;
-  left: 750px;
+  left: 39%;
   top: -420px;
   font-family: Barlow;
   font-style: normal;
@@ -267,9 +270,9 @@
 }
 .natasha__text {
   position: relative;
-  width: 197px;
+  width: 10%;
   height: 25px;
-  left: 750px;
+  left: 39%;
   top: -420px;
   font-family: Barlow;
   font-style: normal;
@@ -284,9 +287,9 @@
   /* Polygon 11 */
 
   position: relative;
-  width: 155px;
+  width: 10%;
   height: 151px;
-  left: 758.37px;
+  left: 39%;
   top: -460px;
 
   border: 4px solid #ffc727;
@@ -313,9 +316,9 @@
 }
 .lui {
   position: relative;
-  width: 149px;
+  width: 10%;
   height: 34px;
-  left: 560px;
+  left: 30%;
   top: -320px;
   font-family: Barlow;
   font-style: normal;
@@ -327,9 +330,9 @@
 }
 .lui__text {
   position: relative;
-  width: 197px;
+  width: 10%;
   height: 25px;
-  left: 560px;
+  left: 30%;
   top: -320px;
   font-family: Barlow;
   font-style: normal;
